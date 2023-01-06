@@ -9,6 +9,14 @@ export default {
     src: "http://github.com/manoelmeseque.png",
     alt: "Manoel Meseque",
   },
+
+  argTypes: {
+    src: {
+      control: {
+        type: "text",
+      },
+    },
+  },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
