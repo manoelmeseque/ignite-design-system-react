@@ -1,0 +1,2 @@
+import{A as t}from"./index-19668be1.js";import"./index-63eeef1a.js";import"./es.object.get-own-property-descriptor-366a41fe.js";import"./index-05d07f04.js";import"./jsx-runtime-a49d27ee.js";const i={title:"Data display/Avatar",component:t,args:{src:"http://github.com/manoelmeseque.png",alt:"Manoel Meseque"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories-c9ddc0d9.js.map
